@@ -1,0 +1,4 @@
+sqlalchemy
+pymongo
+requests
+psycopg2-binary
