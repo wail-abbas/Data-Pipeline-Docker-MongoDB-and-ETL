@@ -1,6 +1,6 @@
 # Data Pipeline: Docker, MongoDB, and ETL
 ### Objectives:
-##### The project aims to:
+##### This project aims to:
 * Get Docker running.
 * Build a skeleton pipeline.
 * Collect Tweets.
